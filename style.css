@@ -1,7 +1,7 @@
 .row-container {
    
     display: flex;
-    flex-direction: row; /* or just omit this because it's default */
+    flex-direction: row; 
 }
 .column-container {
     display: flex;
